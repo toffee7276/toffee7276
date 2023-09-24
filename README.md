@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @toffee7276
-- 👀 I’m interested in c++ and python
-- 🌱 I’m currently learning js 
+
   
 
 <!---
